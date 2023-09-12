@@ -10,7 +10,7 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
     <tr><td style="text-align: right"> Last name:           </td> <td><input name="Surname"     type="text"                                                     required/> </td></tr>
     <tr><td style="text-align: right"> Affiliation:         </td> <td><input name="Affiliation" type="text"  placeholder="Please select..." list="institutions" required/> </td></tr>
     <tr><td style="text-align: right"> Email address:       </td> <td><input name="Email"       type="email" placeholder="Valid email address"                  required/> </td></tr>
-    <tr><td style="text-align: right"> Dietary requirements:</td> <td><input name="Diet"        type="text"  placeholder="E.g. 'vegan' or 'none'"               required/> </td></tr>
+    <tr><td style="text-align: right"> Dietary requirements:</td> <td><input name="Diet"        type="text"  placeholder="Please select..." list="diets"        required/> </td></tr>
     <tr><td style="text-align: right"> Other comments:      </td> <td><input name="Comments"    type="text">                                                               </td></tr>
     <tr>
       <td style="text-align: center" colspan=2>
@@ -23,6 +23,12 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
   <option>ASTRON</option>
   <option>ESA</option>
   <option>Leiden Observatory</option>
+</datalist>
+<!-- This is the list of institutions for use with the Affiliation field -->
+<datalist id="diets">
+  <option>No special requirements</option>
+  <option>Vegetarian</option>
+  <option>Vegan</option>
 </datalist>
 </form>
 <!-- End of registration form-->
