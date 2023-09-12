@@ -10,5 +10,13 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
   <p>Dietary requirements: <input name="Diet" type="text" placeholder="E.g. 'vegan' or 'none'" required></p>
   <p>Other comments: <input name="Comments" type="text"></p>
   <p><button type="submit">Sign me up please!</button></p>
+  <p>
+    <select id="cars" name="cars">
+      <option value="volvo">Volvo</option>
+      <option value="saab">Saab</option>
+      <option value="fiat">Fiat</option>
+      <option value="audi">Audi</option>
+    </select>
+  </p>
 </form>
 
