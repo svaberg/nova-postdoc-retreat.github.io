@@ -1,4 +1,24 @@
+# About
+
+The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch astronomical institute as well as those affiliated with SRON, ASTRON, and TU Delft.  The aim of the meeting is to go beyond standard postdoc training normally offered by universities by offering sessions that can further serve your career. This entails aspects related to participants who wish to pursue an academic career, but also participants who are considering pursuing a non-academic trajectory. Apart from these career aspects, the meeting tries to give the participants a sense of practical `soft-skills' that may serve useful in both academic and non-academic environments.
+
+
+# Practicals
+
+In 2023 the NOVA postdoc retreat will be held in Leiden. Specifically on Thursday Nov. 30 and Fri. Dec. 1 in the Golden Tulip Inn hotel. 
+
+It is up to the participants from outside Leiden to cover their accommodation expenses. Only if the budget allows, we can cover accommodation expenses for participants not based in Leiden.
+
+*MAP has to be inserted here*
+
+
+# Programme
+
+*TO BE INSERTED when finalised*
+
+
 # Registration form
+
 Please use the following form to register for the 2023 NOVA post-doc retreat:
 <!-- Registration form starts here please take care-->
 <form 
@@ -32,3 +52,13 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
 </datalist>
 </form>
 <!-- End of registration form-->
+
+
+# Contact
+
+If you have any questions concerning this event, please get in touch with the organisers:
+
+- Dag Evensberget: [evensberget@strw.leidenuniv.nl](mailto:evensberget@strw.leidenuniv.nl)
+- Florian Driessen: [fdriessen@strw.leidenuniv.nl](mailto:fdriessen@strw.leidenuniv.nl)
+- Harold Linnartz: [linnartz@strw.leidenuniv.nl](mailto:linnartz@strw.leidenuniv.nl)
+
