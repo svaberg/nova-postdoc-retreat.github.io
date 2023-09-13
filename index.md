@@ -5,13 +5,10 @@ The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch
 
 # Practicals
 
-In 2023 the NOVA postdoc retreat will be held in Leiden. Specifically on Thursday Nov. 30 and Fri. Dec. 1 in the Golden Tulip Inn hotel. 
+In 2023 the NOVA postdoc retreat will be held in Leiden. Specifically on Thursday Nov. 30 and Fri. Dec. 1 in the Golden Tulip Inn hotel. The location is very accessible with Leiden central station next doors. We therefore recommend participants to travel by train to Leiden.
 
 It is up to the participants from outside Leiden to cover their accommodation expenses. Only if the budget allows, we can cover accommodation expenses for participants not based in Leiden.
 
-*MAP has to be inserted here*
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -25,8 +22,6 @@ It is up to the participants from outside Leiden to cover their accommodation ex
     <style>
         /* Style the body and other elements however you like */
         body {
-            background: black;
-            color: white;
             font-size: 150%;
         }
 
@@ -54,7 +49,7 @@ It is up to the participants from outside Leiden to cover their accommodation ex
 
 <body>
     <!-- The tag below is just a simple copy / paste from Google maps
-          with the width and height removed -->
+          with the width and height removed; this is set above -->
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.19716168534!2d4.4826593119463665!3d52.16710867185393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6ebd49d3f67%3A0xecc6761cea84f49e!2sGolden%20Tulip%20%26%20Tulip%20Inn%20Leiden%20Centre!5e0!3m2!1snl!2snl!4v1694589830818!5m2!1snl!2snl" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </body>
 
@@ -70,8 +65,8 @@ It is up to the participants from outside Leiden to cover their accommodation ex
 
 Please use the following form to register for the 2023 NOVA post-doc retreat:
 <!-- Registration form starts here please take care-->
-<form 
-  method="POST" 
+<form
+  method="POST"
   action="https://script.google.com/macros/s/AKfycbyae1hFMLOY_iLKrjlx5vdZHR5INKvXrOPbMkKEfz35CPxWE1pYOdOCEVYrhuGJp3jWag/exec"
 >
   <table>
@@ -83,7 +78,7 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
     <tr><td style="text-align: right"> Other comments:      </td> <td><input name="Comments"    type="text">                                                               </td></tr>
     <tr>
       <td style="text-align: center" colspan=2>
-        <button type="submit">Now sign me up please!</button> 
+        <button type="submit">Now sign me up please!</button>
       </td>
     </tr>
   </table>
@@ -110,4 +105,3 @@ If you have any questions concerning this event, please get in touch with the or
 - Dag Evensberget: [evensberget@strw.leidenuniv.nl](mailto:evensberget@strw.leidenuniv.nl)
 - Florian Driessen: [fdriessen@strw.leidenuniv.nl](mailto:fdriessen@strw.leidenuniv.nl)
 - Harold Linnartz: [linnartz@strw.leidenuniv.nl](mailto:linnartz@strw.leidenuniv.nl)
-
