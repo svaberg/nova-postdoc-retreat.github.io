@@ -21,14 +21,18 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
 <!-- This is the list of institutions for use with the Affiliation field -->
 <datalist id="institutions">
   <option>ASTRON</option>
-  <option>ESA</option>
+  <option>Astronomical Institute Anton Pannekoek</option>
+  <option>IMAPP Nijmegen</option>
+  <option>Kapteyn Institute</option>
   <option>Leiden Observatory</option>
+  <option>SRON</option>
+  <option>TU Delft</option>
 </datalist>
 <!-- This is the list of institutions for use with the Affiliation field -->
 <datalist id="diets">
   <option>No special requirements</option>
-  <option>Vegetarian</option>
   <option>Vegan</option>
+  <option>Vegetarian</option>
 </datalist>
 </form>
 <!-- End of registration form-->
