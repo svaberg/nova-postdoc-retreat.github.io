@@ -37,8 +37,8 @@ It is up to the participants from outside Leiden to cover their accommodation ex
             max-width: 800px;
             max-height: 600px;
             /* If you want the map to the left of subsequent content */
-            float: left;
-            margin-right: 10px;
+            float: none;
+            margin-right: 0;
             /* Optionally, you can use margin: 1em auto to center */
             border: solid 2px gray;
             box-shadow: 2px 2px 2px silver;
