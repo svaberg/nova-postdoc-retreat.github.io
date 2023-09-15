@@ -3,13 +3,13 @@
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #23373B !default;
-$header-bg-color-secondary: #23373B !default;
+$header-bg-color: #EB811B !default;
+$header-bg-color-secondary: #EB811B !default;
 
 // Text
-$section-headings-color: #23373B !default;
+$section-headings-color: #EB811B !default;
 $body-text-color: #606c71 !default;
-$body-link-color: #155799 !default;
+$body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
 
 @import "{{ site.theme }}";
