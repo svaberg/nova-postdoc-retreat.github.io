@@ -67,7 +67,7 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
 <!-- Registration form starts here please take care-->
 <form
   method="POST"
-  action="https://script.google.com/macros/s/AKfycbyae1hFMLOY_iLKrjlx5vdZHR5INKvXrOPbMkKEfz35CPxWE1pYOdOCEVYrhuGJp3jWag/exec"
+  action="https://script.google.com/macros/s/AKfycbxEpm2UvaD8j97xVRGgGLJK49av-PSwUI9Q7APnXO7B6E5xQhgtWB7rfCwbhGrYkhreRw/exec"
 >
   <table>
     <tr><td style="text-align: right"> First name:          </td> <td><input name="Name"        type="text"                                                     required/> </td></tr>
