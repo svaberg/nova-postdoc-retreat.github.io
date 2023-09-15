@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url('../img/eso-vlt.jpg'); /* The image used */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
