@@ -1,3 +1,7 @@
+---
+title: NOVA
+---
+
 # About
 
 The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch astronomical institute as well as those affiliated with SRON, ASTRON, and TU Delft.  The aim of the meeting is to go beyond standard postdoc training normally offered by universities by offering sessions that can further serve your career. This entails aspects related to participants who wish to pursue an academic career, but also participants who are considering pursuing a non-academic trajectory. Apart from these career aspects, the meeting tries to give the participants a sense of practical `soft-skills' that may serve useful in both academic and non-academic environments.
