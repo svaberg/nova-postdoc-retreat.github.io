@@ -1,0 +1,32 @@
+---
+---
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #EB811B !default;
+$header-bg-color-secondary: #EB811B !default;
+
+// Text
+$section-headings-color: #EB811B !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url('../img/eso-vlt.jpg'); /* The image used */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
