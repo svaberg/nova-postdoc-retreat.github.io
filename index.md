@@ -67,15 +67,15 @@ Please use the following form to register for the 2023 NOVA post-doc retreat:
 <!-- Registration form starts here please take care-->
 <form
   method="POST"
-  action="https://script.google.com/macros/s/AKfycbzQGDDEw9EN1C8YxU54bNEsTVyB15Mojn_LujZaC9DyOYMBkAUDH9sukx1CUaB1QE_7MA/exec"
+  action="https://script.google.com/macros/s/AKfycbxEpm2UvaD8j97xVRGgGLJK49av-PSwUI9Q7APnXO7B6E5xQhgtWB7rfCwbhGrYkhreRw/exec"
 >
   <table>
-    <tr><td style="text-align: right"> First name:          </td> <td><input name="Name"        type="text"                                                     required/> </td></tr>
-    <tr><td style="text-align: right"> Last name:           </td> <td><input name="Surname"     type="text"                                                     required/> </td></tr>
-    <tr><td style="text-align: right"> Affiliation:         </td> <td><input name="Affiliation" type="text"  placeholder="Please select..." list="institutions" required/> </td></tr>
-    <tr><td style="text-align: right"> Email address:       </td> <td><input name="Email"       type="email" placeholder="Valid email address"                  required/> </td></tr>
-    <tr><td style="text-align: right"> Dietary requirements:</td> <td><input name="Diet"        type="text"  placeholder="Please select..." list="diets"        required/> </td></tr>
-    <tr><td style="text-align: right"> Other comments:      </td> <td><input name="Comments"    type="text">                                                               </td></tr>
+    <tr><td style="text-align: right"> First name:          </td> <td><input name="Name"        type="text"  size="40"                                                    required/> </td></tr>
+    <tr><td style="text-align: right"> Last name:           </td> <td><input name="Surname"     type="text"  size="40"                                                    required/> </td></tr>
+    <tr><td style="text-align: right"> Affiliation:         </td> <td><input name="Affiliation" type="text"  size="40" placeholder="Please select..." list="institutions" required/> </td></tr>
+    <tr><td style="text-align: right"> Email address:       </td> <td><input name="Email"       type="email" size="40" placeholder="Valid email address"                  required/> </td></tr>
+    <tr><td style="text-align: right"> Dietary requirements:</td> <td><input name="Diet"        type="text"  size="40" placeholder="Please select..." list="diets"        required/> </td></tr>
+    <tr><td style="text-align: right"> Other comments:      </td> <td><input name="Comments"    type="text"  size="40">                                                               </td></tr>
     <tr>
       <td style="text-align: center" colspan=2>
         <button type="submit">Now sign me up please!</button>
