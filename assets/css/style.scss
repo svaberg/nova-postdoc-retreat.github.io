@@ -1,3 +1,6 @@
+---
+---
+
 // Headers
 $header-heading-color: #fff !default;
 $header-bg-color: #23373B !default;
@@ -8,9 +11,6 @@ $section-headings-color: #23373B !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #155799 !default;
 $blockquote-text-color: #819198 !default;
-
----
----
 
 @import "{{ site.theme }}";
 
