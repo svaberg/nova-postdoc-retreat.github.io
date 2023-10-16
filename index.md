@@ -62,7 +62,7 @@ Participation to this event is fully covered through NWO/NOVA support and covers
 
 # Programme
 
-*TO BE INSERTED when finalised*
+[Click here to download the programme as a .pdf file.](NOVA-postdoc-retreat-programme-v1.0.pdf)
 
 
 # Registration form
