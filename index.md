@@ -67,7 +67,7 @@ Participation to this event is fully covered through NWO/NOVA support and covers
 
 # Registration form
 
-Please use the form below to register for the 2023 NOVA postdoc retreat. Registration remains open until Friday Nov. 10. Be aware we have to select participants on a first come first serve principle with a limit of 25 participants. Nonetheless, we do aim to guarantee a fair distribution among the participating institutes.
+Please use the form below to register for the 2023 NOVA postdoc retreat. Registration remains open until Friday Nov. 10. Be aware we have to select participants on a first come first serve principle with a limit of 25 participants. Nonetheless, we do aim to guarantee a fair distribution among the participating institutes. Additionally, priority is given to participants who have not enrolled in the past for the event.
 
 Upon successful completion a confirmation e-mail will be send to the e-mail address used for registration. In case you have not received a confirmation e-mail, please check the spam folder of your e-mail client. Still no confirmation? Contact the organisers.
 <!-- Registration form starts here please take care-->
