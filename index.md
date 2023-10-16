@@ -4,14 +4,14 @@ title: NOVA
 
 # About
 
-The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch astronomical institute as well as those affiliated with SRON, ASTRON, and TU Delft.  The aim of the meeting is to go beyond standard postdoc training normally offered by universities by offering sessions that can further serve your career. This entails aspects related to participants who wish to pursue an academic career, but also participants who are considering pursuing a non-academic trajectory. Apart from these career aspects, the meeting tries to give the participants a sense of practical `soft-skills' that may serve useful in both academic and non-academic environments.
+The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch astronomical institute as well as those affiliated with SRON, ASTRON, and TU Delft.  The aim of the meeting is to go beyond standard postdoc training normally offered by universities by offering sessions that can further serve the career of a postdoc. This entails aspects related to participants who wish to pursue an academic career, but also participants who are considering pursuing a non-academic trajectory. Apart from these career aspects, the meeting tries to give the participants a sense of practical `soft-skills' that may serve useful in both academic and non-academic environments.
 
 
 # Practicals
 
 In 2023 the NOVA postdoc retreat will be held in Leiden. Specifically on Thursday Nov. 30 and Friday Dec. 1 in the Golden Tulip / Tulip Inn hotel. The location is very accessible with Leiden central station next doors. We therefore recommend participants to travel by train to Leiden.
 
-It is up to the participants from outside Leiden to cover their accommodation expenses. Only if the budget allows, we can cover accommodation expenses for participants not based in Leiden.
+Participation to this event is fully covered through NWO/NOVA support and covers participation in the courses as well as lunches and dinner on Thursday evening. It is up to the participants from outside Leiden to organise their own accommodation. When you book at the Golden Tulip / Tulip, please refer to this meeting and this will lower the total costs. Only if the budget allows, we may be able to cover a posteriori accommodation expenses for participants not based in Leiden.
 
 <html lang="en">
 
@@ -67,7 +67,9 @@ It is up to the participants from outside Leiden to cover their accommodation ex
 
 # Registration form
 
-Please use the form below to register for the 2023 NOVA postdoc retreat. Upon successful completion a confirmation e-mail will be send to the e-mail address used for registration. In case you have not received a confirmation e-mail, please check the spam folder of your e-mail client. Still no confirmation? Contact the organisers.
+Please use the form below to register for the 2023 NOVA postdoc retreat. Registration remains open until Friday Nov. 10. Be aware we have to select participants on a first come first serve principle with a limit of 25 participants. Nonetheless, we do aim to guarantee a fair distribution among the participating institutes.
+
+Upon successful completion a confirmation e-mail will be send to the e-mail address used for registration. In case you have not received a confirmation e-mail, please check the spam folder of your e-mail client. Still no confirmation? Contact the organisers.
 <!-- Registration form starts here please take care-->
 <form
   method="POST"
